@@ -1,6 +1,6 @@
 ## Welcome to Ewanor GitHub!
 
-Our mission is to empower the world of logistics and increase the GDP of the world by helping humans automate the redundant parts of a site.
+Our mission is to empower the world of logistics and increase the GDP of the world by helping humans automate freight forwarding and customs workflows.
 
 For more about who we are and what we do, visit our [official website](https://ewanor.com/).
 
